@@ -40,5 +40,5 @@ It does this by combining:
 .
 ├── dataExtraction.py         # Script to collect YouTube data and save videos_raw.csv
 ├── recommender_system.py     # Feature engineering, topic modeling, and recommendations
-├── videos_raw.csv            # Collected dataset (not committed if large / private)
+├── videos_raw.csv            # Collected dataset 
 └── README.md                 # This file
